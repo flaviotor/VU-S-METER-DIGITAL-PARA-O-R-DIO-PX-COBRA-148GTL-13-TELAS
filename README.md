@@ -1,3 +1,2 @@
 VU S-METER DIGITAL UNIVERSAL OLED
-Engenharia de Software & Hardware: ( PU8AAT - flaviohat@gmail.com ) MANUAL DO USUÁRIO, GUIA DE INSTALAÇÃO E FIRMWARE 13 TELAS Para o Rádio PX Cobra 148GTL ou Similares. Atualizado no dia 19/08/2026 Ver. 2.1d APC
-
+Engenharia de Software & Hardware: ( PU8AAT - flaviohat@gmail.com ) MANUAL DO USUÁRIO, GUIA DE INSTALAÇÃO E FIRMWARE 13 TELAS Para o Rádio PX Cobra 148GTL ou Similares. Atualizado no dia 20/08/2026 Ver. 2.1e APC. Manual de Instalação no blog (http://kitdds.blogspot.com/) Do mestre "Wander Lucio Gomes" (WLG) Essa Firmware é 100% compatível com a versão do VU S-Meter Digital do (WLG). necessitando apenas gravar a Firmware.
